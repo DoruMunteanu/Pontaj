@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "title": "Concediu", "author": "DoruMunteanu" }
+  ],
+  "comments": [
+    { "id": 1, "body": "", "postId": 1 }
+  ],
+  "profile": { "Pontaj": "DoruMunteanu" }
+}
